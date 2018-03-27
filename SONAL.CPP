@@ -108,7 +108,7 @@ outtextxy(2,210,"Start!!");
 
 setcolor(5);
 settextstyle(3,0,4);
-outtextxy(10,10,"By Sonal");
+outtextxy(10,10,"By Shubham");
 
 //Emoji
 
