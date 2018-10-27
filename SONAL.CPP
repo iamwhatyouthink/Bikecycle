@@ -110,7 +110,7 @@ setcolor(5);
 settextstyle(3,0,4);
 outtextxy(10,10,"By Shubham");
 
-//Emoji
+//Smilely Emoji
 
 setcolor(14);
 circle(160,35,20);
